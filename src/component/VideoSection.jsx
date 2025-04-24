@@ -145,7 +145,7 @@ const VideoSection = ({ videoRef, currentData }) => {
         ref={videoRef}
         muted={isMuted}
         loop
-        className="w-full h-full max-sm:h-[60%] max-sm:mt-[10vh] object-cover"
+        className="w-full h-[100%] max-sm:h-[60%] max-sm:mt-[10vh] object-cover"
         src={currentData.video}
         onLoadedMetadata={(e) =>
           setVideoDuration(Math.floor(e.target.duration))

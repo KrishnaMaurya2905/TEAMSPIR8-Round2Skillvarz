@@ -5,24 +5,25 @@ import FlipLink from "./FlipLink";
 const Category = ({ goToSlide, current, showSidebar }) => {
   const categoryData = [
     {
-      name: "K - Drama",
+      name: "Movies",
       items: 3,
       firstItem: 0,
     },
     {
       name: "TV Shows",
-      items: 4,
+      items: 2,
       firstItem: 3,
     },
-    {
-      name: "Movies",
-      items: 4,
-      firstItem: 7,
-    },
+
     {
       name: "Web Series",
+      items: 3,
+      firstItem: 6,
+    },
+    {
+      name: "K - Drama",
       items: 2,
-      firstItem: 11,
+      firstItem: 8,
     },
   ];
 
@@ -62,7 +63,7 @@ const Category = ({ goToSlide, current, showSidebar }) => {
   return (
     <motion.div
       ref={categoryRef}
-      className="absolute z-[4] top-[40%] -translate-y-1/2 left-10 h-fit w-fit text-[1.5rem] leading-none uppercase font-black text-white space-y-3"
+      className="absolute z-[4] top-[40%] -translate-y-1/2 left-10 h-fit w-fit text-[1.5rem] max-md:text-[1rem] max-md:left-5 leading-none uppercase font-black text-white space-y-3"
       initial="hidden"
       animate={showSidebar ? "visible" : "exit"}
       variants={categoryVariants}

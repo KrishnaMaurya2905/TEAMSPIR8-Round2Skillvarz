@@ -2,7 +2,7 @@ import { useRef } from "react";
 import { IoPlaySharp } from "react-icons/io5";
 import { BiPause } from "react-icons/bi";
 import { LiaVolumeMuteSolid } from "react-icons/lia";
-import { VscUnmute } from "react-icons/vsc";
+import { VscMute } from "react-icons/vsc";
 import { GoUnmute } from "react-icons/go";
 import { motion } from "framer-motion";
 
@@ -147,7 +147,7 @@ const TimeLineBar = ({
             {isMuted ? "Unmute" : " Mute"}
           </span>
           {isMuted ? (
-            <LiaVolumeMuteSolid className="text-lg" />
+            <VscMute  className="text-lg" />
           ) : (
             <GoUnmute className="text-lg" />
           )}

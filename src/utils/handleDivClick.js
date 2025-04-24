@@ -1,6 +1,6 @@
 // utils/handleDivClick.js
 
-const handleDivClick = (e, itemOrIndex, indexOrNavigate, maybeNavigate) => {
+const handleDivClick = (e, itemOrIndex, indexOrNavigate, maybeNavigate , id ) => {
   e.preventDefault();
 
   let index, navigate;
@@ -70,7 +70,7 @@ const handleDivClick = (e, itemOrIndex, indexOrNavigate, maybeNavigate) => {
   // Cleanup and navigate
   setTimeout(() => {
     if (navigate) {
-      navigate(`/work/${index}`);
+      navigate(`/explore/${id}`);
     }
    setTimeout(() => {
       overlay.remove();

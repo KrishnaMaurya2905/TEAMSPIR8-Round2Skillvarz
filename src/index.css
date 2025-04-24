@@ -18,7 +18,10 @@
 ::-webkit-scrollbar {
   display: none;
 }
-
+::selection {
+  background-color: transparent;
+  color: #fff;
+}
 .text-wrapper {
   perspective: 1000px;
   overflow: hidden;

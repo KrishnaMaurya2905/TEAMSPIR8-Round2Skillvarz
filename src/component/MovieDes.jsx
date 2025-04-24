@@ -43,7 +43,7 @@ const MovieDes = ({ Name, BannerImg, info, Category, des }) => {
               text={"Start Watching NOW"}
               customclass={`text-xl tracking-wide mx-auto bg-white text-black border-white border-[1px]`}
               circ={`bg-black`}
-              p={`group-hover:text-white`}
+              p={`group-hover:text-white `}
             />
             <Button
               text={"+"}
