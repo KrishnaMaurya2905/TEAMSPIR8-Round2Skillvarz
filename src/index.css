@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Seri";
+  src: url("/44de913a964f5a31-s.p.woff2");
+}
+
+@font-face {
+  font-family: "Kano";
+  src: url("/Kano-Bq_SLOq7.ttf");
+}
+
+@font-face {
+  font-family: "Gothic";
+  src: url("/vancouver-gothic.otf");
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.text-wrapper {
+  perspective: 1000px;
+  overflow: hidden;
+}
+
+.text-wrapper h1 {
+  transform-style: preserve-3d;
+}
+
+.border-line {
+  position: absolute;
+  height: 1px;
+  background-image: linear-gradient(to right, white 50%, transparent 50%);
+  background-size: 8px 1px;
+  background-repeat: repeat-x;
+  animation: dash 1s linear infinite;
+}
+
+@keyframes dash {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 8px 0;
+  }
+}
