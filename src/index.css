@@ -17,8 +17,7 @@
   display: none;
 }
 ::selection {
-  background-color: transparent;
-  color: #fff;
+  background: transparent;
 }
 .text-wrapper {
   perspective: 1000px;
