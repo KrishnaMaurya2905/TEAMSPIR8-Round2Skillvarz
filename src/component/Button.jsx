@@ -9,6 +9,7 @@ const Button = ({
   p,
   circ,
   backgroundColor = "#fff",
+  children,
   ...attributes
 }) => {
   const circle = useRef(null);
@@ -57,6 +58,7 @@ const Button = ({
         onTouchEnd={manageMouseLeave}
         {...attributes}
       >
+        {children}
         <p
           className={`relative z-[1] font-['Gothic'] max-sm:text-xs max-md:text-sm uppercase transition-all duration-200 delay-100 ${
             isHovered ? "text-white" : "text-black"

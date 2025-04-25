@@ -33,7 +33,7 @@ const CursorLabel = () => {
           animate={{ opacity: 1, scale: 1 }}
           exit={{ opacity: 0, scale: 0.95 }}
           transition={{ duration: 0.25 }}
-          className="fixed z-[10] font-semibold pointer-events-none text-white text-xs sm:text-sm font-['poppins'] uppercase tracking-wide"
+          className="fixed z-[10] font-semibold max-md:hidden pointer-events-none text-white text-xs sm:text-sm font-['poppins'] uppercase tracking-wide"
           style={{
             x: springX,
             y: springY,

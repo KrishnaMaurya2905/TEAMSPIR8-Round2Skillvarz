@@ -6,14 +6,14 @@ import About from "./component/About";
 import CursorLabel from "./component/CursorLabel";
 import Navbar from "./component/Navbar";
 import SignIn from "./component/SignIn";
-
+import { useState } from "react";
 const App = () => {
   const location = useLocation();
-
+ const [openSignIn, SetOpenSignIn] = useState(false);
   return (
     <div className="w-full relative bg-black">
-      <Navbar />
-       <SignIn />
+      <Navbar  SetOpenSignIn={SetOpenSignIn} />
+      <SignIn SetOpenSignIn={SetOpenSignIn} openSignIn={openSignIn} />
       <CursorLabel />
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>

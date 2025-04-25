@@ -1,6 +1,6 @@
 import React from "react";
 
-const Footer = () => {
+const Footer = ({  currentData }) => {
   return (
     <div>
       <div
@@ -8,7 +8,7 @@ const Footer = () => {
         style={{ clipPath: "polygon(0% 0, 100% 0%, 100% 100%, 0 100%)" }}
       >
         <div className="fixed bottom-0 font-['poppins'] h-[90vh] bg-white  w-full text-black overflow-hidden p-5 pt-20 uppercase  text-xl max-md:text-lg  ">
-          <div className="h-[40%] font-['Gothic'] w-full  flex max-md:flex-col justify-between max-md:gap-10  ">
+          <div className="h-[35%]  font-['Gothic'] w-full  flex max-md:flex-col justify-between max-md:gap-10  ">
             <div className="h-fit w-fit flex flex-col gap-5 max-md:w-full ">
               <h3 className="opacity-70">Contact</h3>
               <div>
@@ -41,27 +41,29 @@ const Footer = () => {
             </div>
           </div>
 
-          <div className="h-[50%] w-full flex flex-col  justify-end text-black ">
-            <h2 className="font-['Gothic'] leading-none text-4xl max-md:text-xl   ">
+          <div className="h-[55%]  w-full flex flex-col  justify-end  ">
+            <div className="text-black flex justify-between items-end font-['Gothic'] leading-none text-4xl max-md:text-xl h-fit w-full ">
+            <h2 className="text-6xl max-md:text-3xl font-['Seri'] font-bold  ">Cinverse</h2>
+            <h2 className="opacity-70" >
               Streaming Redefined for <br /> Storytellers and Seekers
             </h2>
 
-            <div className="relative w-full h-[20vw] ">
-              <h1
-                className="font-['Seri'] text-[18vw]  font-extrabold leading-none  z-10"
-                style={{
-                  backgroundImage: "url('/maxresdefault (26).jpg')", // path to your image
-                  backgroundSize: "cover",
-                  backgroundPosition: "center",
-                  WebkitBackgroundClip: "text",
-                  WebkitTextFillColor: "transparent",
-                  backgroundClip: "text",
-                  color: "transparent",
-                }}
-              >
-                Cineverse
-              </h1>
             </div>
+            <div className="relative w-full h-[20vw] overflow-hidden">
+  {/* Video absolutely positioned */}
+  <video
+    className="absolute top-0 left-0 w-full h-full object-cover z-0"
+    loop
+    autoPlay
+    muted
+    playsInline
+    src={currentData.video}
+  />
+
+  {/* Text mask */}
+
+</div>
+
           </div>
           <div className="h-[10%] w-full flex justify-between text-xl  max-md:text-xs items-center font-['Gothic'] ">
             <h3>@2025 Cinverse</h3>

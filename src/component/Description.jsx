@@ -249,7 +249,10 @@ const Description = () => {
             id={next2Route}
           />
         </div>
-        <div className="h-screen max-md:h-[60vh] w-full flex flex-col justify-center items-center text-center text-[5vw] max-md:text-[7vw] tracking-wider font-semibold uppercase font-['Seri'] leading-none ">
+        <div className="h-screen max-md:h-[60vh]  w-full flex flex-col justify-center items-center ">
+
+        <div className="relative h-[75%] w-[75%] flex flex-col justify-center items-center  text-center text-[5vw] max-md:text-[7vw] tracking-wider font-semibold uppercase font-['Seri'] leading-none ">
+        <Border height={20} width={20}  />
           <Paragraph
             phrases={["READY TO DISCOVER YOUR", "NEXT FAVORITE MOVIE ?"]}
           />
@@ -267,8 +270,9 @@ const Description = () => {
               p={`group-hover:text-white`}
             />
           </div>
+          </div>
         </div>
-        <Footer />
+        <Footer  currentData={Descriptiondata[index]} />
       </div>
     </div>
   );

@@ -55,7 +55,7 @@ const MovieDes = ({ Name, BannerImg, info, Category, des }) => {
         </div>
 
         <Paragraph
-          className={`font-['Seri'] text-3xl max-2xl:text-2xl max-xl:text-xl max-lg:text-[18px] max-sm:text-[16px]`}
+          className={`font-['Gothic'] text-3xl max-2xl:text-2xl max-xl:text-xl max-lg:text-[18px] max-sm:text-[16px]`}
           phrases={des}
         />
       </div>

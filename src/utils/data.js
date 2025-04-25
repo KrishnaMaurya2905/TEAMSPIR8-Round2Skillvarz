@@ -1,69 +1,71 @@
 const data = [
   {
-    img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8730/1707996958730-i",
+    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576598/b91a6529-dffd-4b65-9810-5678735168ef_iu2mfa.webp",
     textData: {
       head: "Salaar",
       sub: "Rebel Rise",
     },
   },
   {
-    img: "https://thecinemaholic.com/wp-content/uploads/2023/06/EXR2_20220108_08040_R-1-e1686903774535.jpg",
+    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576807/EXR2_20220108_08040_R-1-e1686903774535_xscb9u.webp",
     textData: {
       head: "Extraction 2",
       sub: "Relentless Mission",
     },
   },
   {
-    img: "https://indorinerd.com/wp-content/uploads/2024/06/mu2.png",
+    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/mu2_nsfeku.webp",
     textData: {
       head: "Munjya",
       sub: "Folk Horror",
     },
   },
+
   {
-    img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6442/1744307176442-i",
-    textData: {
-      head: "Legend of Hanuman",
-      sub: "Mythic Power",
-    },
-  },
-  {
-    img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1000/1737824681000-i",
-    textData: {
-      head: "Power of Paanch",
-      sub: "Unity Force",
-    },
-  },
-  {
-    img: "https://hips.hearstapps.com/hmg-prod/images/stranger-things-season-4-1653419558.jpg",
+    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576804/stranger-things-season-4-1653419558_jlvike.webp",
     textData: {
       head: "Stranger Things",
       sub: "Upside Down",
     },
   },
   {
-    img: "https://static.webnewsobserver.com/uploads/2023/02/Copy-of-wild-croc-territory-season-2-2023-02-08T132436.954.png",
+    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576805/Copy-of-wild-croc-territory-season-2-2023-02-08T132436.954_jeoizz.webp",
     textData: {
       head: "Money Heist",
       sub: "Perfect Chaos",
     },
   },
   {
-    img: "https://images3.alphacoders.com/122/thumb-1920-1221287.jpg",
+    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/thumb-1920-1221287_hev8dq.webp",
     textData: {
       head: "Peaky Blinders",
       sub: "By Order",
     },
   },
   {
-    img: "https://0.soompi.io/wp-content/uploads/2021/04/29210111/vincenzo-15.jpg",
+    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/1737824681000-i_zb8osf.webp",
+    textData: {
+      head: "Power of Paanch",
+      sub: "Unity Force",
+    },
+  },
+  {
+    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/1744307176442-i_spo0wi.webp",
+    textData: {
+      head: "Legend of Hanuman",
+      sub: "Mythic Power",
+    },
+  },
+
+  {
+    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576801/vincenzo-15_cfmjq0.webp",
     textData: {
       head: "Vincenzo",
       sub: "Mafia Justice",
     },
   },
   {
-    img: "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABfZduEQSApsAIwFJe-ko5EC7dYMNoIl2y0xLdpKezomvCIciq4yCj5y_Nou_GeugQ6zdkeSUV4KbPzWicMsMVVJuoMIgnct3VmOm.jpg?r=729",
+    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576800/AAAABfZduEQSApsAIwFJe-ko5EC7dYMNoIl2y0xLdpKezomvCIciq4yCj5y_Nou_GeugQ6zdkeSUV4KbPzWicMsMVVJuoMIgnct3VmOm_pboule.jpg",
     textData: {
       head: "Business Proposal",
       sub: "Office Romance",
@@ -73,14 +75,13 @@ const data = [
 
 export default data;
 
-
 const Descriptiondata = [
   {
     video:
-      "/MUNJYA - Official Trailer _ Sharvari _ Abhay Verma _ Dinesh Vijan _ Aditya Sarpotdar _ 7th June 2024.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576136/Salaar_Hindi_Trailer___Prabhas___Prashanth_Neel___Prithviraj_Shruthi_Hombale_Films__Vijay_Kiragandur_vdjsi7.mp4",
     Name: "Salaar",
     BannerImg:
-      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8730/1707996958730-i",
+      "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745577021/thequint_2F2023-12_2F39932037-3563-463c-8ffc-890b9ef81dfb_2FScreenshot_2023_12_22_at_5_09_04_PM_iwgvfr.webp",
     info: ["2023", "A", "2hr 54min", "3 languages"],
     Category: "Action | Thriller | Power Struggle | Dystopian",
     des: [
@@ -126,10 +127,10 @@ const Descriptiondata = [
   },
   {
     video:
-      "/MUNJYA - Official Trailer _ Sharvari _ Abhay Verma _ Dinesh Vijan _ Aditya Sarpotdar _ 7th June 2024.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575922/EXTRACTION_2___Official_Teaser_Trailer___Netflix_f1afh8.mp4",
     Name: "Extraction 2",
     BannerImg:
-      "https://thecinemaholic.com/wp-content/uploads/2023/06/EXR2_20220108_08040_R-1-e1686903774535.jpg",
+      "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576807/EXR2_20220108_08040_R-1-e1686903774535_xscb9u.webp",
     info: ["2023", "A", "2hr 3min", "4 languages"],
     Category: " Action | Thriller",
     des: [
@@ -175,10 +176,10 @@ const Descriptiondata = [
   },
   {
     video:
-      "/MUNJYA - Official Trailer _ Sharvari _ Abhay Verma _ Dinesh Vijan _ Aditya Sarpotdar _ 7th June 2024.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575911/MUNJYA_-_Official_Trailer___Sharvari___Abhay_Verma___Dinesh_Vijan___Aditya_Sarpotdar___7th_June_2024_ovezb3.mp4",
     Name: "Munjya",
     BannerImg:
-      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9417/1726555249417-h",
+      "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/mu2_nsfeku.webp",
     info: ["2024", "U/A 16+", "2 hr", "3 languages"],
     Category: "Horror | Comedy | Paranormal | Myth & Legend",
     des: [
@@ -221,117 +222,13 @@ const Descriptiondata = [
       },
     ],
   },
-  {
-    video:
-      "/MUNJYA - Official Trailer _ Sharvari _ Abhay Verma _ Dinesh Vijan _ Aditya Sarpotdar _ 7th June 2024.mp4",
-    Name: "legend of Hanuman",
-    BannerImg:
-      "https://www.animationxpress.com/wp-content/uploads/2024/11/LOH_S05_Poster_02v02.jpg",
-    info: ["2025", "U/A 13+", "6 Seasons ", "7 languages"],
-    Category: "Mythology | Animation | Adventure | Spiritual",
-    des: [
-      "Back from Patal Loka, Hanuman faces his toughest",
-      "challenge and embarks on a miraculous journey when Ravan",
-      "unleashes his deadliest blow.",
-    ],
-    sliderdata: [
-      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6442/1744307176442-i",
-      "https://www.animationxpress.com/wp-content/uploads/2024/11/LOH_S05_Poster_02v02.jpg",
-      "https://tsnapi.truescoopnews.com/news/1729415578981.webp",
-      "https://deadline.com/wp-content/uploads/2021/08/hanuman-1.jpeg",
 
-      "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/06/Han.jpg?w=1024",
-      "https://images.firstpost.com/uploads/2024/06/MixCollage-06-Jun-2024-08-20-AM-5442-2024-06-f42f4d0cdcc75c1da34b476cf30f0fe7.jpg?im=FitAndFill=(1200,675)",
-      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4197/1729147894197-h",
-    ],
-    moreRelated: [
-      {
-        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3416/893416-h",
-        title: "Season 1 ",
-        subTitle: "Episodes 13",
-        dateofrelease: "2021",
-      },
-      {
-        img: "https://assets.gadgets360cdn.com/pricee/assets/product/202112/The-Legend-of-Hanuman2-1200_1639662449.jpg?downsize=680:*",
-        title: "Season 2 ",
-        subTitle: "Episodes 13",
-        dateofrelease: "2021",
-      },
-      {
-        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6576/1646576-h-3d500852e9df",
-        title: "Season 3 ",
-        subTitle: "Episodes 6",
-        dateofrelease: "2024",
-      },
-      {
-        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9832/1717047559832-h",
-        title: "Season 4 ",
-        subTitle: "Episodes 7",
-        dateofrelease: "2024",
-      },
-      {
-        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/765/1729149360765-h",
-        title: "Season 5 ",
-        subTitle: "Episodes 6",
-        dateofrelease: "2024",
-      },
-      {
-        img: "https://images.ottplay.com/images/big/the-legend-of-hanuman-season-6-teaser-1742366242.jpeg",
-        title: "Season 6 ",
-        subTitle: "Episodes 7",
-        dateofrelease: "2025",
-      },
-    ],
-  },
   {
     video:
-      "/MUNJYA - Official Trailer _ Sharvari _ Abhay Verma _ Dinesh Vijan _ Aditya Sarpotdar _ 7th June 2024.mp4",
-    Name: "POWER OF PAANCH",
-    BannerImg:
-      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1000/1737824681000-i",
-    info: ["2024", "U/A 16+", "2 hr", "3 languages"],
-    Category: "Fantasy | Super Heroes | Suspense |Investigative",
-    des: [
-      "Bela's journey to Panchgiri unveils family secrets, mystical",
-      "powers, and a battle against dark forces with friends who",
-      "control wind, fire, water and earth.",
-    ],
-    sliderdata: [
-      "https://i.ytimg.com/vi/7iz-SRlZxLM/maxresdefault.jpg",
-      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6030/1742997906030-h",
-      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5328/1736928915328-h",
-      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5391/1736928915391-h",
-      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8552/1743671718552-h",
-      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2506/1737782872506-h",
-      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5028/1738239305028-h",
-    ],
-    moreRelated: [
-      {
-        img: "https://m.media-amazon.com/images/S/pv-target-images/cab0fba6e0d182fc16b66def64462b96f897b868eaed9954a21c064010e3671a._SX1080_FMjpg_.jpg",
-        title: "BLADE MAN",
-        subTitle: "Fantasy",
-        dateofrelease: "2024",
-      },
-      {
-        img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3135/1734427943135-i",
-        title: "The Ghost Detective",
-        subTitle: "Fantasy",
-        dateofrelease: "2024",
-      },
-      {
-        img: "https://timesofindia.indiatimes.com/photo/115525238.cms",
-        title: "THUKRA KE MERA PYAAR",
-        subTitle: "Drama | Betrayal | Revenge",
-        dateofrelease: "2024",
-      },
-    ],
-  },
-  {
-    video:
-      "/MUNJYA - Official Trailer _ Sharvari _ Abhay Verma _ Dinesh Vijan _ Aditya Sarpotdar _ 7th June 2024.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575938/Stranger_Things_4___Volume_2_Trailer___Netflix_uco3lz.mp4",
     Name: "Stranger Things ",
     BannerImg:
-      "https://hips.hearstapps.com/hmg-prod/images/stranger-things-season-4-1653419558.jpg",
+      "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576804/stranger-things-season-4-1653419558_jlvike.webp",
     info: ["2016", "U/A 13+", "4 Seasons", "6 languages"],
     Category: "Horror | Paranormal ",
     des: [
@@ -385,10 +282,10 @@ const Descriptiondata = [
   },
   {
     video:
-      "/MUNJYA - Official Trailer _ Sharvari _ Abhay Verma _ Dinesh Vijan _ Aditya Sarpotdar _ 7th June 2024.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576147/Money_Heist___Series_Trailer___Netflix_vnlosn.mp4",
     Name: "Money Heist",
     BannerImg:
-      "https://static.webnewsobserver.com/uploads/2023/02/Copy-of-wild-croc-territory-season-2-2023-02-08T132436.954.png",
+      "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576805/Copy-of-wild-croc-territory-season-2-2023-02-08T132436.954_jeoizz.webp",
     info: ["2017", "U/A 16+", "5 Seasons", "5 languages"],
     Category: " Thriller | Crime | Action",
     des: [
@@ -441,9 +338,9 @@ const Descriptiondata = [
   },
   {
     video:
-      "/MUNJYA - Official Trailer _ Sharvari _ Abhay Verma _ Dinesh Vijan _ Aditya Sarpotdar _ 7th June 2024.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576124/Peaky_Blinders___Season_5_Trailer___Netflix_a2kfft.mp4",
     Name: "Peaky Blinders",
-    BannerImg: "https://images3.alphacoders.com/122/thumb-1920-1221287.jpg",
+    BannerImg: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/thumb-1920-1221287_hev8dq.webp",
     info: ["2013", "U/A 16+", "6 Seasons", "5 languages"],
     Category: "  Drama | Thriller | Crime",
     des: [
@@ -502,10 +399,116 @@ const Descriptiondata = [
   },
   {
     video:
-      "/MUNJYA - Official Trailer _ Sharvari _ Abhay Verma _ Dinesh Vijan _ Aditya Sarpotdar _ 7th June 2024.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575608/Power_of_Paanch___Teaser___Streaming_Jan_17___DisneyPlus_Hotstar___RivaArorachannel_h1hgkg.mp4",
+    Name: "POWER OF PAANCH",
+    BannerImg:
+      "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/1737824681000-i_zb8osf.webp",
+    info: ["2024", "U/A 16+", "2 hr", "3 languages"],
+    Category: "Fantasy | Super Heroes | Suspense |Investigative",
+    des: [
+      "Bela's journey to Panchgiri unveils family secrets, mystical",
+      "powers, and a battle against dark forces with friends who",
+      "control wind, fire, water and earth.",
+    ],
+    sliderdata: [
+      "https://i.ytimg.com/vi/7iz-SRlZxLM/maxresdefault.jpg",
+      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6030/1742997906030-h",
+      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5328/1736928915328-h",
+      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5391/1736928915391-h",
+      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8552/1743671718552-h",
+      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2506/1737782872506-h",
+      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5028/1738239305028-h",
+    ],
+    moreRelated: [
+      {
+        img: "https://m.media-amazon.com/images/S/pv-target-images/cab0fba6e0d182fc16b66def64462b96f897b868eaed9954a21c064010e3671a._SX1080_FMjpg_.jpg",
+        title: "BLADE MAN",
+        subTitle: "Fantasy",
+        dateofrelease: "2024",
+      },
+      {
+        img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3135/1734427943135-i",
+        title: "The Ghost Detective",
+        subTitle: "Fantasy",
+        dateofrelease: "2024",
+      },
+      {
+        img: "https://timesofindia.indiatimes.com/photo/115525238.cms",
+        title: "THUKRA KE MERA PYAAR",
+        subTitle: "Drama | Betrayal | Revenge",
+        dateofrelease: "2024",
+      },
+    ],
+  },
+  {
+    video:
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575934/The_Legend_Of_Hanuman__Official_Trailer___Season_6___April_11___JioHotstar_zcbipz.mp4",
+    Name: "the legend of Hanuman",
+    BannerImg:
+      "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/1744307176442-i_spo0wi.webp",
+    info: ["2025", "U/A 13+", "6 Seasons ", "7 languages"],
+    Category: "Mythology | Animation | Adventure | Spiritual",
+    des: [
+      "Back from Patal Loka, Hanuman faces his toughest",
+      "challenge and embarks on a miraculous journey when Ravan",
+      "unleashes his deadliest blow.",
+    ],
+    sliderdata: [
+      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6442/1744307176442-i",
+      "https://www.animationxpress.com/wp-content/uploads/2024/11/LOH_S05_Poster_02v02.jpg",
+      "https://tsnapi.truescoopnews.com/news/1729415578981.webp",
+      "https://deadline.com/wp-content/uploads/2021/08/hanuman-1.jpeg",
+
+      "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/06/Han.jpg?w=1024",
+      "https://images.firstpost.com/uploads/2024/06/MixCollage-06-Jun-2024-08-20-AM-5442-2024-06-f42f4d0cdcc75c1da34b476cf30f0fe7.jpg?im=FitAndFill=(1200,675)",
+      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4197/1729147894197-h",
+    ],
+    moreRelated: [
+      {
+        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3416/893416-h",
+        title: "Season 1 ",
+        subTitle: "Episodes 13",
+        dateofrelease: "2021",
+      },
+      {
+        img: "https://assets.gadgets360cdn.com/pricee/assets/product/202112/The-Legend-of-Hanuman2-1200_1639662449.jpg?downsize=680:*",
+        title: "Season 2 ",
+        subTitle: "Episodes 13",
+        dateofrelease: "2021",
+      },
+      {
+        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6576/1646576-h-3d500852e9df",
+        title: "Season 3 ",
+        subTitle: "Episodes 6",
+        dateofrelease: "2024",
+      },
+      {
+        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9832/1717047559832-h",
+        title: "Season 4 ",
+        subTitle: "Episodes 7",
+        dateofrelease: "2024",
+      },
+      {
+        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/765/1729149360765-h",
+        title: "Season 5 ",
+        subTitle: "Episodes 6",
+        dateofrelease: "2024",
+      },
+      {
+        img: "https://images.ottplay.com/images/big/the-legend-of-hanuman-season-6-teaser-1742366242.jpeg",
+        title: "Season 6 ",
+        subTitle: "Episodes 7",
+        dateofrelease: "2025",
+      },
+    ],
+  },
+
+  {
+    video:
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575709/Vincenzo___Official_Trailer___Netflix_rsmnl3.mp4",
     Name: "Vincenzo",
     BannerImg:
-      "https://0.soompi.io/wp-content/uploads/2021/04/29210111/vincenzo-15.jpg",
+      "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576801/vincenzo-15_cfmjq0.webp",
     info: ["2021", "U/A 13+", "1 season", "5 languages"],
     Category: "Drama | Thriller | Crime",
     des: [
@@ -544,10 +547,10 @@ const Descriptiondata = [
   },
   {
     video:
-      "/MUNJYA - Official Trailer _ Sharvari _ Abhay Verma _ Dinesh Vijan _ Aditya Sarpotdar _ 7th June 2024.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575556/Business_Proposal___Official_Trailer___Netflix_ss4bmj.mp4",
     Name: "Business Proposal",
     BannerImg:
-      "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABfZduEQSApsAIwFJe-ko5EC7dYMNoIl2y0xLdpKezomvCIciq4yCj5y_Nou_GeugQ6zdkeSUV4KbPzWicMsMVVJuoMIgnct3VmOm.jpg?r=729",
+      "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576800/AAAABfZduEQSApsAIwFJe-ko5EC7dYMNoIl2y0xLdpKezomvCIciq4yCj5y_Nou_GeugQ6zdkeSUV4KbPzWicMsMVVJuoMIgnct3VmOm_pboule.jpg",
     info: ["2022", "U/A 13+", "1 Season", "3 languages"],
     Category: "Romance | Drama",
     des: [
