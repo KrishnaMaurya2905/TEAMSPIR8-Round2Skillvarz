@@ -77,7 +77,7 @@ export default data;
 const Descriptiondata = [
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576136/Salaar_Hindi_Trailer__Prabhas_Prashanth_Neel_Prithviraj_Shruthi_Hombale_Films_Vijay_Kiragandur_vdjsi7.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576983/Salaar_Hindi_Trailer___Prabhas___Prashanth_Neel___Prithviraj_Shruthi_Hombale_Films__Vijay_Kiragandur_vdjsi7_ecx8c8.mp4",
     Name: "Salaar",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745577021/thequint_2F2023-12_2F39932037-3563-463c-8ffc-890b9ef81dfb_2FScreenshot_2023_12_22_at_5_09_04_PM_iwgvfr.webp",
@@ -126,7 +126,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575922/EXTRACTION_2__Official_Teaser_Trailer__Netflix_f1afh8.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575922/EXTRACTION_2___Official_Teaser_Trailer___Netflix_f1afh8.mp4",
     Name: "Extraction 2",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576807/EXR2_20220108_08040_R-1-e1686903774535_xscb9u.webp",
@@ -175,7 +175,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575911/MUNJYA_-Official_Trailer_Sharvari_Abhay_Verma_Dinesh_Vijan_Aditya_Sarpotdar__7th_June_2024_ovezb3.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575911/MUNJYA_-_Official_Trailer___Sharvari___Abhay_Verma___Dinesh_Vijan___Aditya_Sarpotdar___7th_June_2024_ovezb3.mp4",
     Name: "Munjya",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/mu2_nsfeku.webp",
@@ -223,7 +223,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575938/Stranger_Things_4__Volume_2_Trailer__Netflix_uco3lz.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575938/Stranger_Things_4___Volume_2_Trailer___Netflix_uco3lz.mp4",
     Name: "Stranger Things ",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576804/stranger-things-season-4-1653419558_jlvike.webp",
@@ -280,7 +280,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576147/Money_Heist__Series_Trailer__Netflix_vnlosn.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576147/Money_Heist___Series_Trailer___Netflix_vnlosn.mp4",
     Name: "Money Heist",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576805/Copy-of-wild-croc-territory-season-2-2023-02-08T132436.954_jeoizz.webp",
@@ -336,7 +336,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576124/Peaky_Blinders__Season_5_Trailer__Netflix_a2kfft.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576124/Peaky_Blinders___Season_5_Trailer___Netflix_a2kfft.mp4",
     Name: "Peaky Blinders",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/thumb-1920-1221287_hev8dq.webp",
@@ -398,7 +398,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575608/Power_of_Paanch__Teaser_Streaming_Jan_17_DisneyPlus_Hotstar__RivaArorachannel_h1hgkg.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575608/Power_of_Paanch___Teaser___Streaming_Jan_17___DisneyPlus_Hotstar___RivaArorachannel_h1hgkg.mp4",
     Name: "POWER OF PAANCH",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/1737824681000-i_zb8osf.webp",
@@ -441,7 +441,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575934/The_Legend_Of_Hanuman_Official_Trailer_Season_6_April_11__JioHotstar_zcbipz.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575934/The_Legend_Of_Hanuman__Official_Trailer___Season_6___April_11___JioHotstar_zcbipz.mp4",
     Name: "the legend of Hanuman",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/1744307176442-i_spo0wi.webp",
@@ -503,7 +503,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575709/Vincenzo__Official_Trailer__Netflix_rsmnl3.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575709/Vincenzo___Official_Trailer___Netflix_rsmnl3.mp4",
     Name: "Vincenzo",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576801/vincenzo-15_cfmjq0.webp",
@@ -545,8 +545,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575556/Business_Proposal__Official_Trailer__Netflix_ss4bmj.mp4",
-    Name: "Business Proposal",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575556/Business_Proposal___Official_Trailer___Netflix_ss4bmj.mp4",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576800/AAAABfZduEQSApsAIwFJe-ko5EC7dYMNoIl2y0xLdpKezomvCIciq4yCj5y_Nou_GeugQ6zdkeSUV4KbPzWicMsMVVJuoMIgnct3VmOm_pboule.jpg",
     info: ["2022", "U/A 13+", "1 Season", "3 languages"],
