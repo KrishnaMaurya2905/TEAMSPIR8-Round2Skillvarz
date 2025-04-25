@@ -222,7 +222,6 @@ const Descriptiondata = [
       },
     ],
   },
-
   {
     video:
       "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575938/Stranger_Things_4___Volume_2_Trailer___Netflix_uco3lz.mp4",
@@ -326,13 +325,13 @@ const Descriptiondata = [
         img: "https://m.media-amazon.com/images/M/MV5BMGFlYTc5MDYtYzdmZS00Y2I1LWFhYjYtODcxNTNiYjhmYWYzXkEyXkFqcGc@._V1_QL75_UX587_.jpg",
         title: "Season 4",
         subTitle: "episode 8",
-        dateofrelease: "2022",
+        dateofrelease: "2020",
       },
       {
         img: "https://m.media-amazon.com/images/M/MV5BZDNmYzM1YjQtMmQ0Yi00YmMzLTg4NjItNDAxOGViZGRkZTFiXkEyXkFqcGc@._V1_QL75_UX401_.jpg",
         title: "Season 5",
         subTitle: "episode 10",
-        dateofrelease: "Coming Soon",
+        dateofrelease: "2021",
       },
     ],
   },
@@ -502,7 +501,6 @@ const Descriptiondata = [
       },
     ],
   },
-
   {
     video:
       "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575709/Vincenzo___Official_Trailer___Netflix_rsmnl3.mp4",

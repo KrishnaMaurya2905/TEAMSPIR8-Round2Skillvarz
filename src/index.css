@@ -1,16 +1,18 @@
- @import "tailwindcss";
+@import "tailwindcss";
 
 @font-face {
   font-family: "Seri";
   src: url("/44de913a964f5a31-s.p.woff2");
 }
 
-
 @font-face {
   font-family: "Gothic";
   src: url("/vancouver-gothic.otf");
 }
-
+@font-face {
+  font-family: "poppins";
+  src: url("/Poppins-Regular.ttf");
+}
 ::-webkit-scrollbar {
   display: none;
 }
@@ -43,4 +45,4 @@
   to {
     background-position: 8px 0;
   }
-} 
+}
