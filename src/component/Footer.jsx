@@ -9,7 +9,7 @@ const Footer = ({ currentData }) => {
         style={{ clipPath: "polygon(0% 0, 100% 0%, 100% 100%, 0 100%)" }}
       >
         <div className="fixed bottom-0 font-['poppins'] h-[90vh] bg-white  w-full text-black overflow-hidden p-5 pt-20 uppercase  text-xl max-md:text-lg  ">
-          <div className="h-[35%]  font-['Gothic'] w-full  flex max-md:flex-col justify-between max-md:gap-10  ">
+          <div className="h-[35%]  font-['Gothic'] w-full  flex max-md:flex-col justify-between max-md:gap-10 tracking-wider ">
             <div className="h-fit w-fit flex flex-col gap-5 max-md:w-full ">
               <h3 className="opacity-70">Contact</h3>
               <div>
@@ -19,9 +19,9 @@ const Footer = ({ currentData }) => {
             <div className="h-fit w-1/2 flex max-md:flex-wrap justify-between px-10 max-md:px-0  max-md:gap-y-10 ">
               <div className="h-fit w-fit flex flex-col gap-5 max-md:w-full">
                 <h3 className="opacity-70">Support</h3>
-                <div>
-                  <h3>Help Center</h3>
-                  <h3>Feedback</h3>
+                <div className="flex flex-col items-start">
+                  <FlipLink>Help Center</FlipLink>
+                  <FlipLink>Feedback</FlipLink>
                 </div>
               </div>
               <div className="h-fit w-fit flex flex-col gap-5 ">
