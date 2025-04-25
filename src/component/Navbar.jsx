@@ -67,7 +67,9 @@ const Navbar = ({ SetOpenSignIn }) => {
     >
       <h3
         onClick={() => {
-          navigate("/");
+          if (location.pathname !== "/") {
+            navigate("/");
+          }
         }}
       >
         CINEVERSE
