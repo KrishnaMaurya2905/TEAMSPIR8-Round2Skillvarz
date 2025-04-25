@@ -14,7 +14,7 @@ Welcome to _Cineverse, an immersive and interactive movie streaming web app buil
 
 ## 🌐 Live Preview
 
-🔗 [View the Project Live](https://github.com/KrishnaMaurya2905/TEAMSPIR8-Round2Skillvarz)
+🔗 [View the Project Live](https://teamspir-8-round2-skillvarz.vercel.app/)
 
 ---
 
@@ -49,7 +49,7 @@ Built with smooth transitions and modern scroll effects, Cineverse delivers a un
 
 - / – _Home (Hero Section)_
   > Scrollable vertical slider, video player, next/previous movies
-- /movie/:id – _Movie Detail Page_
+- /explore/:id – _Movie Detail Page_
   > Video player, description, slider for images/episodes/seasons
 - /signup – _Sign Up Page_
 

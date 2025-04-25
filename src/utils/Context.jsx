@@ -1,35 +1,4 @@
-// import React, { createContext, useContext, useState, useEffect } from "react";
-// import { useLocation } from "react-router-dom";
 
-// const SlideContext = createContext();
-
-// export const SlideProvider = ({ children }) => {
-//   const [showSidebar, setShowSidebar] = useState(false);
-//   const [clickedImageData, setClickedImageData] = useState(null);
-//   const location = useLocation();
-
-//   useEffect(() => {
-//     setShowSidebar(false);
-//     setClickedImageData(null);
-//   }, [location]);
-
-//   return (
-//     <SlideContext.Provider
-//       value={{
-//         showSidebar,
-//         setShowSidebar,
-//         clickedImageData,
-//         setClickedImageData,
-//       }}
-//     >
-//       {children}
-//     </SlideContext.Provider>
-//   );
-// };
-
-// export const useSlide = () => useContext(SlideContext);
-
-// context/SlideContext.js
 import React, { createContext, useContext, useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 

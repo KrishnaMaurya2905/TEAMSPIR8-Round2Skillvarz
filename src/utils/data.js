@@ -56,7 +56,6 @@ const data = [
       sub: "Mythic Power",
     },
   },
-
   {
     img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576801/vincenzo-15_cfmjq0.webp",
     textData: {
@@ -78,7 +77,7 @@ export default data;
 const Descriptiondata = [
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576136/Salaar_Hindi_Trailer___Prabhas___Prashanth_Neel___Prithviraj_Shruthi_Hombale_Films__Vijay_Kiragandur_vdjsi7.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576136/Salaar_Hindi_Trailer__Prabhas_Prashanth_Neel_Prithviraj_Shruthi_Hombale_Films_Vijay_Kiragandur_vdjsi7.mp4",
     Name: "Salaar",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745577021/thequint_2F2023-12_2F39932037-3563-463c-8ffc-890b9ef81dfb_2FScreenshot_2023_12_22_at_5_09_04_PM_iwgvfr.webp",
@@ -90,35 +89,35 @@ const Descriptiondata = [
       "only one man to help reclaim power: Deva.",
     ],
     sliderdata: [
-      "https://www.hindustantimes.com/ht-img/img/2023/12/22/1600x900/salaar_review_1703231884816_1703231887255.jpeg",
-      "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202312/prabhas-prithviraj-sukumaran-salaar-224345651-16x9_0.jpg?VersionId=tS1VfZ8R7kHoJpSBBAStde1pxlWIBbvf&size=690:388",
-      "https://www.hindustantimes.com/ht-img/img/2023/12/22/1600x900/salaar_review_live_1703231959293_1703231960458.jpg",
-      "https://img-cdn.thepublive.com/filters:format(webp)/movietalkies/media/media_files/2025/03/22/salaar-re-release-still-1-857444.jpg",
-      "https://indiaglitz-media.s3.amazonaws.com/telugu/home/salaar-review-14.jpg",
-      "https://indiaglitz-media.s3.amazonaws.com/telugu/home/salaar-review-11.jpg",
-      "https://indiaglitz-media.s3.amazonaws.com/telugu/home/salaar-review-15.jpg",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581082/salaar_review_1703231884816_1703231887255_wzboin.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581175/prabhas-prithviraj-sukumaran-salaar-224345651-16x9_0_gpn81j.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581382/salaar_review_live_1703231959293_1703231960458_wwvkj7.webp ",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581419/salaar-re-release-still-1-857444_sjjzlr.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581455/salaar-review-14_ljiecn.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581476/salaar-review-11_uhby9y.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581495/salaar-review-15_xogkzz.webp",
     ],
     moreRelated: [
       {
-        img: "https://www.hiravshah.com/wp-content/uploads/2022/04/kgf-chapter-2.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583520/kgf-chapter-2_bhcfa4.webp",
         title: "KGF Chapter-2",
         subTitle: "Action | Crime | Thriller",
         dateofrelease: "2022",
       },
       {
-        img: "https://m.media-amazon.com/images/S/pv-target-images/0e91806fd4441eece9a4cfb750d868fd665c71efd0c9c5a9d072cc5b4d133705.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583538/0e91806fd4441eece9a4cfb750d868fd665c71efd0c9c5a9d072cc5b4d133705_y6ozup.webp",
         title: "KGF Chapter-1",
         subTitle: "Action | Crime | Thriller",
         dateofrelease: "2018",
       },
       {
-        img: "https://indiaglitz-media.s3.amazonaws.com/telugu/home/skanda-review-2.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583559/skanda-review-2_isitey.webp",
         title: "SKANDA",
         subTitle: "Action | Thriller | Revenge",
         dateofrelease: "2023",
       },
       {
-        img: "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000003/1739354930890624_MARCO_Landscape_Thumb.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583583/1739354930890624_MARCO_Landscape_Thumb_sqodls.webp",
         title: "MARCO",
         subTitle: "Action | Thriller | Revenge",
         dateofrelease: "2024",
@@ -127,7 +126,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575922/EXTRACTION_2___Official_Teaser_Trailer___Netflix_f1afh8.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575922/EXTRACTION_2__Official_Teaser_Trailer__Netflix_f1afh8.mp4",
     Name: "Extraction 2",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576807/EXR2_20220108_08040_R-1-e1686903774535_xscb9u.webp",
@@ -139,35 +138,35 @@ const Descriptiondata = [
       "gangster's imprisoned family.",
     ],
     sliderdata: [
-      "https://assets-prd.ignimgs.com/2023/06/15/aaaabz6nd88pzdt9v-gbivfmmr8vowahffr8ujrunpycf3wv3lraztc9mrphiyrreqwia2aag29humfpvn73ddfyhcmjdcr0n47ivovb-1686845446001.jpg",
-      "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQeyT2PVdHTgSD6DlZzxHeTvBkKtQgB05Z7OuQDnC6av5s6p4nVykIYwz5QKIYqlf9rusvkEz4XDJ1CK7mvVY5CqkFywKefnGs_EPeZaPqyx9zBAYpC4V7WzAseZJxr5BlTCxCfOYMefGyXeuiK7IKoGt7eU.jpg?r=d0a",
-      "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2023/06/30/3889121-1237398967.jpg?itok=2bqZR-Pg",
-      "https://www.recoilweb.com/wp-content/uploads/2023/09/RECP-202311-EXTRACTION-NETFLIX-EXR2_20220226_19925_R.jpg",
-      "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQdQJ0VTyrXg_9LIsuzuOV96_RJIrzwf7PowbD8hJPz3Kudi5s7vZizjjeI2JpA-kC7bv_4mrn9CEnAnSPuEU_7t9RcnewRwFBeefvk2L6VJmjkdPttt_b1EXy6eu2WOz41l6QlSSIW2YEgVL3UXPEQxy.jpg?r=d7f",
-      "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/06/chris-hemsworth-and-tinatin-dalakishvili-in-extraction-2.jpg",
-      "https://basilmarinerchase.wordpress.com/wp-content/uploads/2023/06/extraction-2-chris-hemsworth-saves-girl.jpg?w=640",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581669/aaaabz6nd88pzdt9v-gbivfmmr8vowahffr8ujrunpycf3wv3lraztc9mrphiyrreqwia2aag29humfpvn73ddfyhcmjdcr0n47ivovb-1686845446001_hcscvy.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581695/AAAAQeyT2PVdHTgSD6DlZzxHeTvBkKtQgB05Z7OuQDnC6av5s6p4nVykIYwz5QKIYqlf9rusvkEz4XDJ1CK7mvVY5CqkFywKefnGs_EPeZaPqyx9zBAYpC4V7WzAseZJxr5BlTCxCfOYMefGyXeuiK7IKoGt7eU_weegmh.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581728/3889121-1237398967_e2kzul.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581750/RECP-202311-EXTRACTION-NETFLIX-EXR2_20220226_19925_R_wcgvql.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581787/AAAAQdQJ0VTyrXg_9LIsuzuOV96_RJIrzwf7PowbD8hJPz3Kudi5s7vZizjjeI2JpA-kC7bv_4mrn9CEnAnSPuEU_7t9RcnewRwFBeefvk2L6VJmjkdPttt_b1EXy6eu2WOz41l6QlSSIW2YEgVL3UXPEQxy_gsa8wf.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581809/chris-hemsworth-and-tinatin-dalakishvili-in-extraction-2_apwv1a.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581832/extraction-2-chris-hemsworth-saves-girl_ikbmyx.webp",
     ],
     moreRelated: [
       {
-        img: "https://i.ytimg.com/vi/YN44QFjY4ls/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLArKEFRIPHXsIj2Xj4gYweDu8NfKw",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583664/hq720_gi44zl.webp",
         title: "Extraction 3",
         subTitle: " Action | Thriller",
         dateofrelease: "Coming Soon",
       },
       {
-        img: "https://occ-0-8407-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVqcLQpf6mxvyIfcaadFQhph_iN1tmNUjmHziE4hXp6HsNL0ViweqrNA3JUqdX_ukwGIWZzli2G4cry-1PYBFRk22_a8C2LG86Cj.jpg?r=1ef",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583712/AAAABVqcLQpf6mxvyIfcaadFQhph_iN1tmNUjmHziE4hXp6HsNL0ViweqrNA3JUqdX_ukwGIWZzli2G4cry-1PYBFRk22_a8C2LG86Cj_wnnqgf.webp",
         title: "Extraction ",
         subTitle: " Action | Thriller",
         dateofrelease: "2020",
       },
       {
-        img: "https://m.media-amazon.com/images/S/pv-target-images/1e7a5f0380a2f07cdd643b659a2b461cabea6a5c79c219619e5cb87ae94e7813.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583736/1e7a5f0380a2f07cdd643b659a2b461cabea6a5c79c219619e5cb87ae94e7813_vf4ifz.webp",
         title: "the kings man",
         subTitle: "Action | War",
         dateofrelease: "2021",
       },
       {
-        img: "https://i.ytimg.com/vi/32RAq6JzY-w/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBcGNhTJHJBxOBfzuAD5mOHilROlg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583762/hq720_owq9kb.webp",
         title: "Fast x",
         subTitle: "Action | Crime",
         dateofrelease: "2023",
@@ -176,7 +175,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575911/MUNJYA_-_Official_Trailer___Sharvari___Abhay_Verma___Dinesh_Vijan___Aditya_Sarpotdar___7th_June_2024_ovezb3.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575911/MUNJYA_-Official_Trailer_Sharvari_Abhay_Verma_Dinesh_Vijan_Aditya_Sarpotdar__7th_June_2024_ovezb3.mp4",
     Name: "Munjya",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/mu2_nsfeku.webp",
@@ -188,34 +187,34 @@ const Descriptiondata = [
       " shadow. And an eerie ride begins!",
     ],
     sliderdata: [
-      "https://www.hindustantimes.com/ht-img/img/2024/06/08/550x309/MUNJYA_1717819228571_1717819238044.png",
-      "https://www.koimoi.com/wp-content/new-galleries/2024/06/box-office-munjya-has-fantastic-hold-on-second-friday-sees-hardly-any-drop-001.jpg",
-      "https://www.koimoi.com/wp-content/new-galleries/2024/08/sharvari-wagh-abhay-vermas-munjya-is-now-out-on-ott-001.jpg",
-      "https://pbs.twimg.com/media/GOainzDXEAAy3_a.jpg:large",
-      "https://img-cdn.thepublive.com/filters:format(webp)/movietalkies/media/post_attachments/wp-content/uploads/2024/06/munjya-rev-3.jpg",
-      "https://www.highonfilms.com/wp-content/uploads/2024/08/Munjya-2024-Movie-Ending-Explained-hof.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581867/MUNJYA_1717819228571_1717819238044_knlpcq.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581890/box-office-munjya-has-fantastic-hold-on-second-friday-sees-hardly-any-drop-001_zaamq8.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581911/sharvari-wagh-abhay-vermas-munjya-is-now-out-on-ott-001_m47rpl.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581931/GOainzDXEAAy3_a_n7irii.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581951/munjya-rev-3_ypzche.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745581971/Munjya-2024-Movie-Ending-Explained-hof_aowtfh.webp",
     ],
     moreRelated: [
       {
-        img: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/stree-2-review-150343674-16x9_0.jpg?VersionId=_eoSldg8TaAByx9zIWXGCNYhddW9Ur5j",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583800/stree-2-review-150343674-16x9_0_zvubvy.webp",
         title: "Stree 2",
         subTitle: "Horror | Comedy | Paranormal  ",
         dateofrelease: "2024",
       },
       {
-        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5463/1565463-h-f004b793e402",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583831/1565463-h-f004b793e402_qpnxyl.webp",
         title: "Bhoot police",
         subTitle: "Horror | Comedy  | Dramedy ",
         dateofrelease: "2021",
       },
       {
-        img: "https://jsglive.in/wp-content/uploads/2020/11/laxmii-akshay-kumar-kiara-advani-1200.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583854/laxmii-akshay-kumar-kiara-advani-1200_yc0e4y.webp",
         title: "Laxmi",
         subTitle: "Horror | Comedy | Revenge",
         dateofrelease: "2020",
       },
       {
-        img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/71/1739444790071-i",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583876/1739444790071-i_tcfwft.webp",
         title: "Bhediya",
         subTitle: "Horror | Thriller | Supernatural",
         dateofrelease: "2022",
@@ -224,7 +223,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575938/Stranger_Things_4___Volume_2_Trailer___Netflix_uco3lz.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575938/Stranger_Things_4__Volume_2_Trailer__Netflix_uco3lz.mp4",
     Name: "Stranger Things ",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576804/stranger-things-season-4-1653419558_jlvike.webp",
@@ -237,42 +236,42 @@ const Descriptiondata = [
       "a series of extraordinary mysteries.",
     ],
     sliderdata: [
-      "https://i.ytimg.com/vi/4DMUy20QfdM/maxresdefault.jpg",
-      "https://images.bauerhosting.com/legacy/empire-images/reviews_tv/577d47fe823490d0626612c9/stranger-things.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
-      "https://images.immediate.co.uk/production/volatile/sites/3/2025/02/GfP3966XEAA5c0p-ef44e02.jpeg?quality=90&resize=980,654",
-      "https://imageio.forbes.com/specials-images/imageserve/654e4b3dce5e221992c0586e/Charlie-Heaton-as-Jonathan-Byers--Winona-Ryder-as-Joyce-Byers--Millie-Bobby-Brown-as/0x0.jpg?format=jpg&crop=2880,1920,x419,y0,safe&width=960",
-      "https://insidethemagic.net/wp-content/uploads/2023/10/Saratoga-Springs-Pool-16.jpg",
-      "https://pyxis.nymag.com/v1/imgs/cc2/612/22272c4325c9bba7ec9e69afa7618a32e7-28-stranger-things-review-1.1x.rsocial.w1200.jpg",
-      "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/11/stranger-things-day-sadie-sink-caleb-mclaughlin-featured.jpg",
-      "https://www.slashfilm.com/img/gallery/every-time-stranger-things-4-volume-2-broke-our-hearts/intro-1656874861.jpg",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582006/maxresdefault_fo9g1t.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582027/stranger-things_qgiwpy.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582048/GfP3966XEAA5c0p-ef44e02_brm1qy.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582070/0x0_h4sxtm.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582089/Saratoga-Springs-Pool-16_bgqzm9.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582106/22272c4325c9bba7ec9e69afa7618a32e7-28-stranger-things-review-1.1x.rsocial.w1200_d2mser.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582126/stranger-things-day-sadie-sink-caleb-mclaughlin-featured_rstfyv.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582144/intro-1656874861_xos6ww.webp",
     ],
     moreRelated: [
       {
-        img: "https://www.cnet.com/a/img/resize/6a2421496f041d07e2fdbdbe6e84bddb41d2b396/hub/2019/07/01/e22e720b-f9be-41a6-98f0-c2f92d0494f2/header3-stranger-things-80s-movies.jpg?auto=webp&width=1200",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583912/header3-stranger-things-80s-movies_pze9lo.webp",
         title: "Season 1",
         subTitle: "episode 8",
         dateofrelease: "2016",
       },
       {
-        img: "https://variety.com/wp-content/uploads/2017/10/stranger-things-2.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583945/stranger-things-2_loikzh.webp",
         title: "Season 2",
         subTitle: "episode 9",
         dateofrelease: "2017",
       },
       {
-        img: "https://i0.wp.com/dmtalkies.com/wp-content/uploads/2022/05/ezgif-1-20ac889cc0.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745585889/wp1839579_ilodsf.webp",
         title: "Season 3",
         subTitle: "episode 8",
         dateofrelease: "2019",
       },
       {
-        img: "https://assets.vogue.com/photos/62a9efb6459db19bced93c39/master/w_1600%2Cc_limit/StrangerThings_StrangerThings4_8_00_32_47_06_R.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584125/StrangerThings_StrangerThings4_8_00_32_47_06_R_qafsga.webp",
         title: "Season 4",
         subTitle: "episode 9",
         dateofrelease: "2022",
       },
       {
-        img: "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQUQXspCa7-ML9jU-MDmoKbzUZVyO0y9R8zEemkDXTDn0opcGGT7lBRc6pBuirUOGyjNgelGidVH4nJN5HnUkXCuWlv2c0A-52tFG7r5LCLBc7LJc-L5YB0kPe0e8KaMluyhxv_6BXrMDfQ9jLifB-qtqBGQ.jpg?r=0c4",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584149/AAAAQUQXspCa7-ML9jU-MDmoKbzUZVyO0y9R8zEemkDXTDn0opcGGT7lBRc6pBuirUOGyjNgelGidVH4nJN5HnUkXCuWlv2c0A-52tFG7r5LCLBc7LJc-L5YB0kPe0e8KaMluyhxv_6BXrMDfQ9jLifB-qtqBGQ_bxe1hm.webp",
         title: "Season 5",
         subTitle: "episode 8",
         dateofrelease: "Coming Soon",
@@ -281,7 +280,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576147/Money_Heist___Series_Trailer___Netflix_vnlosn.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576147/Money_Heist__Series_Trailer__Netflix_vnlosn.mp4",
     Name: "Money Heist",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576805/Copy-of-wild-croc-territory-season-2-2023-02-08T132436.954_jeoizz.webp",
@@ -294,52 +293,53 @@ const Descriptiondata = [
       "plan in store.",
     ],
     sliderdata: [
-      "https://assets.telegraphindia.com/telegraph/2021/Dec/1638791747_bella-ciao.jpg",
-      "https://img.jakpost.net/c/2019/04/02/2019_04_02_69073_1554178130._large.jpg",
-      "https://www.usatoday.com/gcdn/presto/2021/09/10/USAT/074b4117-1d29-4764-87a2-8b35ac9834c6-LCDP_S05_E05_20201209_232_tamaraarranz.jpg?crop=5284,2972,x1434,y142&width=3200&height=1800&format=pjpg&auto=webp",
-      "https://img.buzzfeed.com/buzzfeed-static/static/2020-04/9/2/asset/a897bf2e209c/sub-buzz-1246-1586399570-1.png",
-      "https://decider.com/wp-content/uploads/2018/02/money-heist.png",
-      "https://wallpapers.com/images/hd/professor-money-heist-4k-central-bank-scene-nz0rizryt5399v09.jpg",
-      "https://i.ytimg.com/vi/F7XQR_8aHeg/maxresdefault.jpg",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582185/1638791747_bella-ciao_q2qdj6.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582204/2019_04_02_69073_1554178130._large_kimpdq.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582225/074b4117-1d29-4764-87a2-8b35ac9834c6-LCDP_S05_E05_20201209_232_tamaraarranz_nvpwi6.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582245/sub-buzz-1246-1586399570-1_yojtkn.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582269/money-heist_rl4rzt.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582293/professor-money-heist-4k-central-bank-scene-nz0rizryt5399v09_roag1i.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582314/maxresdefault_fw8ntk.webp",
     ],
     moreRelated: [
       {
-        img: "https://m.media-amazon.com/images/M/MV5BMDAxZmRjMWMtNWVmZS00MmI3LWJhNzItNzRkY2MwYmZkZGExXkEyXkFqcGc@._V1_QL75_UX402_.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584176/MV5BMDAxZmRjMWMtNWVmZS00MmI3LWJhNzItNzRkY2MwYmZkZGExXkEyXkFqcGc_.V1_QL75_UX402_lkd6oh.webp",
         title: "Season 1",
         subTitle: "episode 9",
         dateofrelease: "2016",
       },
       {
-        img: "https://m.media-amazon.com/images/M/MV5BYzBlNDE5NWYtZDljZC00MTgxLThhOWEtMGZhNmRlMmUwYzNlXkEyXkFqcGc@._V1_QL75_UX397_.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584197/MV5BYzBlNDE5NWYtZDljZC00MTgxLThhOWEtMGZhNmRlMmUwYzNlXkEyXkFqcGc_.V1_QL75_UX397_raosvc.webp",
         title: "Season 2",
         subTitle: "episode 6",
         dateofrelease: "2017",
       },
       {
-        img: "https://m.media-amazon.com/images/M/MV5BMzI0OWExNjgtMTA2MS00NzRmLTk2YmEtZDNjMjVlYTIxZDZjXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584219/MV5BMzI0OWExNjgtMTA2MS00NzRmLTk2YmEtZDNjMjVlYTIxZDZjXkEyXkFqcGc_.V1_QL75_UX820_gcsqne.webp",
         title: "Season 3",
         subTitle: "episode 8",
         dateofrelease: "2019",
       },
       {
-        img: "https://m.media-amazon.com/images/M/MV5BMGFlYTc5MDYtYzdmZS00Y2I1LWFhYjYtODcxNTNiYjhmYWYzXkEyXkFqcGc@._V1_QL75_UX587_.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584241/MV5BMGFlYTc5MDYtYzdmZS00Y2I1LWFhYjYtODcxNTNiYjhmYWYzXkEyXkFqcGc_.V1_QL75_UX587_gczuj0.webp",
         title: "Season 4",
         subTitle: "episode 8",
-        dateofrelease: "2020",
+        dateofrelease: "2022",
       },
       {
-        img: "https://m.media-amazon.com/images/M/MV5BZDNmYzM1YjQtMmQ0Yi00YmMzLTg4NjItNDAxOGViZGRkZTFiXkEyXkFqcGc@._V1_QL75_UX401_.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584262/MV5BZDNmYzM1YjQtMmQ0Yi00YmMzLTg4NjItNDAxOGViZGRkZTFiXkEyXkFqcGc_.V1_QL75_UX401_fmom7p.webp",
         title: "Season 5",
         subTitle: "episode 10",
-        dateofrelease: "2021",
+        dateofrelease: "Coming Soon",
       },
     ],
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576124/Peaky_Blinders___Season_5_Trailer___Netflix_a2kfft.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576124/Peaky_Blinders__Season_5_Trailer__Netflix_a2kfft.mp4",
     Name: "Peaky Blinders",
-    BannerImg: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/thumb-1920-1221287_hev8dq.webp",
+    BannerImg:
+      "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/thumb-1920-1221287_hev8dq.webp",
     info: ["2013", "U/A 16+", "6 Seasons", "5 languages"],
     Category: "  Drama | Thriller | Crime",
     des: [
@@ -349,47 +349,47 @@ const Descriptiondata = [
       "to the criminal activities.",
     ],
     sliderdata: [
-      "https://images.bauerhosting.com/legacy/media/6218/d0d0/9649/1220/4743/3049/peaky-blinders-16.jpg?auto=format&w=1440&q=80",
-      "https://m.media-amazon.com/images/M/MV5BN2Q2MGY1MWQtNTYzNC00ZmZlLWI3MzktYmEyZTNiNmMxZjliXkEyXkFqcGc@._V1_QL75_UX404_.jpg",
-      "https://m.media-amazon.com/images/M/MV5BYjJiOGRmMjktODMxYy00MzM5LWI2YzItYmIwNjljYTZjOWY1XkEyXkFqcGc@._V1_QL75_UX402_.jpg",
-      "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/04/no-fighting-peaky-blinders0.jpg",
-      "https://veredneta.com/wp-content/uploads/2022/10/Peaky-Blinders-Header-1024x576.webp",
-      "https://image-cdn.netflixjunkie.com/wp-content/uploads/2022/08/peaky-blinders-blue-sapphire-curse-1647261408.jpeg",
-      "https://ichef.bbci.co.uk/images/ic/976xn/p028d8pj.jpg",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582380/peaky-blinders-16_rznqsy.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582401/MV5BN2Q2MGY1MWQtNTYzNC00ZmZlLWI3MzktYmEyZTNiNmMxZjliXkEyXkFqcGc_.V1_QL75_UX404_hh2cpb.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582434/MV5BYjJiOGRmMjktODMxYy00MzM5LWI2YzItYmIwNjljYTZjOWY1XkEyXkFqcGc_.V1_QL75_UX402_lnssm8.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582452/no-fighting-peaky-blinders0_eafrxq.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582480/Peaky-Blinders-Header-1024x576_lppqcs.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582499/peaky-blinders-blue-sapphire-curse-1647261408_fmohcx.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582519/p028d8pj_fwhhjm.webp",
     ],
     moreRelated: [
       {
-        img: "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUemkNy2yBrzbLhA4ZtByu5C2sdtysOLnDUAZUEYxLAu2vvfdgOSqOsasFtIYiropUT594OZSBiu1_HLu2pVStIyuhUAdwMg66aZ.jpg?r=5e1",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584295/AAAABUemkNy2yBrzbLhA4ZtByu5C2sdtysOLnDUAZUEYxLAu2vvfdgOSqOsasFtIYiropUT594OZSBiu1_HLu2pVStIyuhUAdwMg66aZ_rgzjah.webp",
         title: "Season 1",
         subTitle: "episode 6",
         dateofrelease: "2013",
       },
       {
-        img: "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/05/Peaky-Blinders-Feature-Image-Season-2.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584322/Peaky-Blinders-Feature-Image-Season-2_tm3ito.webp",
         title: "Season 2",
         subTitle: "episode 6",
         dateofrelease: "2017",
       },
       {
-        img: "https://m.media-amazon.com/images/M/MV5BYTlkZTQzNWEtYjA5OS00MGM0LTljMGEtNGZjNjdkZWRlOGFmXkEyXkFqcGc@._V1_QL75_UX500_CR0,26,500,281_.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584416/MV5BYTlkZTQzNWEtYjA5OS00MGM0LTljMGEtNGZjNjdkZWRlOGFmXkEyXkFqcGc_.V1_QL75_UX500_CR0_26_500_281_m5zal9.webp",
         title: "Season 3",
         subTitle: "episode 6",
         dateofrelease: "2019",
       },
       {
-        img: "https://images.immediate.co.uk/production/volatile/sites/3/2017/11/Adrien-Brody-Peaky-MAIN-e29efd8.jpg?quality=90&resize=980,654",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584441/Adrien-Brody-Peaky-MAIN-e29efd8_lgowhm.webp",
         title: "Season 4",
         subTitle: "episode 6",
         dateofrelease: "2022",
       },
       {
-        img: "https://www.historiamag.com/wp-content/uploads/2019/08/Peaky-Tommy-hearse-750.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584469/Peaky-Tommy-hearse-750_fjlxnw.webp",
         title: "Season 5",
         subTitle: "episode 6",
         dateofrelease: "Coming Soon",
       },
       {
-        img: "https://m.media-amazon.com/images/M/MV5BOTc3NGJkYjMtN2JmZS00MDI2LWExYmUtMTcwN2YwZGM0YTM0XkEyXkFqcGc@._V1_QL75_UX500_CR0,26,500,281_.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584506/MV5BOTc3NGJkYjMtN2JmZS00MDI2LWExYmUtMTcwN2YwZGM0YTM0XkEyXkFqcGc_.V1_QL75_UX500_CR0_26_500_281_x1mcbc.webp",
         title: "Season 6",
         subTitle: "episode 6",
         dateofrelease: "Coming Soon",
@@ -398,7 +398,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575608/Power_of_Paanch___Teaser___Streaming_Jan_17___DisneyPlus_Hotstar___RivaArorachannel_h1hgkg.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575608/Power_of_Paanch__Teaser_Streaming_Jan_17_DisneyPlus_Hotstar__RivaArorachannel_h1hgkg.mp4",
     Name: "POWER OF PAANCH",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/1737824681000-i_zb8osf.webp",
@@ -410,29 +410,29 @@ const Descriptiondata = [
       "control wind, fire, water and earth.",
     ],
     sliderdata: [
-      "https://i.ytimg.com/vi/7iz-SRlZxLM/maxresdefault.jpg",
-      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6030/1742997906030-h",
-      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5328/1736928915328-h",
-      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5391/1736928915391-h",
-      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8552/1743671718552-h",
-      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2506/1737782872506-h",
-      "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5028/1738239305028-h",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582546/maxresdefault_icsy5l.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582566/1742997906030-h_fe95vd.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582582/1736928915328-h_jxdmkg.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582601/1736928915391-h_ax6khg.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582619/1743671718552-h_ukuvsn.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582645/1737782872506-h_ctn1pg.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582662/1738239305028-h_zdj2ru.webp",
     ],
     moreRelated: [
       {
-        img: "https://m.media-amazon.com/images/S/pv-target-images/cab0fba6e0d182fc16b66def64462b96f897b868eaed9954a21c064010e3671a._SX1080_FMjpg_.jpg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584545/cab0fba6e0d182fc16b66def64462b96f897b868eaed9954a21c064010e3671a.SX1080_FMjpg_e7egw8.webp",
         title: "BLADE MAN",
         subTitle: "Fantasy",
         dateofrelease: "2024",
       },
       {
-        img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3135/1734427943135-i",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584567/1734427943135-i_jdvncp.webp",
         title: "The Ghost Detective",
         subTitle: "Fantasy",
         dateofrelease: "2024",
       },
       {
-        img: "https://timesofindia.indiatimes.com/photo/115525238.cms",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584592/115525238_affbdz.webp",
         title: "THUKRA KE MERA PYAAR",
         subTitle: "Drama | Betrayal | Revenge",
         dateofrelease: "2024",
@@ -441,7 +441,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575934/The_Legend_Of_Hanuman__Official_Trailer___Season_6___April_11___JioHotstar_zcbipz.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575934/The_Legend_Of_Hanuman_Official_Trailer_Season_6_April_11__JioHotstar_zcbipz.mp4",
     Name: "the legend of Hanuman",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/1744307176442-i_spo0wi.webp",
@@ -453,48 +453,48 @@ const Descriptiondata = [
       "unleashes his deadliest blow.",
     ],
     sliderdata: [
-      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6442/1744307176442-i",
-      "https://www.animationxpress.com/wp-content/uploads/2024/11/LOH_S05_Poster_02v02.jpg",
-      "https://tsnapi.truescoopnews.com/news/1729415578981.webp",
-      "https://deadline.com/wp-content/uploads/2021/08/hanuman-1.jpeg",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582691/1744307176442-i_sswpce.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582761/LOH_S05_Poster_02v02_zyk2nd.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582800/1729415578981_filrt5.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582820/hanuman-1_wb6e5u.webp",
 
-      "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/06/Han.jpg?w=1024",
-      "https://images.firstpost.com/uploads/2024/06/MixCollage-06-Jun-2024-08-20-AM-5442-2024-06-f42f4d0cdcc75c1da34b476cf30f0fe7.jpg?im=FitAndFill=(1200,675)",
-      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4197/1729147894197-h",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582839/Han_khxfod.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582862/MixCollage-06-Jun-2024-08-20-AM-5442-2024-06-f42f4d0cdcc75c1da34b476cf30f0fe7_gsrlb4.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582883/1729147894197-h_sgasv9.webp",
     ],
     moreRelated: [
       {
-        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3416/893416-h",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584621/893416-h_mkjmzj.webp",
         title: "Season 1 ",
         subTitle: "Episodes 13",
         dateofrelease: "2021",
       },
       {
-        img: "https://assets.gadgets360cdn.com/pricee/assets/product/202112/The-Legend-of-Hanuman2-1200_1639662449.jpg?downsize=680:*",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584648/The-Legend-of-Hanuman2-1200_1639662449_zc1ill.webp",
         title: "Season 2 ",
         subTitle: "Episodes 13",
         dateofrelease: "2021",
       },
       {
-        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6576/1646576-h-3d500852e9df",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584671/1646576-h-3d500852e9df_zkzr0c.webp",
         title: "Season 3 ",
         subTitle: "Episodes 6",
         dateofrelease: "2024",
       },
       {
-        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9832/1717047559832-h",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584705/1717047559832-h_sndqhv.webp",
         title: "Season 4 ",
         subTitle: "Episodes 7",
         dateofrelease: "2024",
       },
       {
-        img: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/765/1729149360765-h",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584734/1729149360765-h_beuqxy.webp",
         title: "Season 5 ",
         subTitle: "Episodes 6",
         dateofrelease: "2024",
       },
       {
-        img: "https://images.ottplay.com/images/big/the-legend-of-hanuman-season-6-teaser-1742366242.jpeg",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584760/the-legend-of-hanuman-season-6-teaser-1742366242_dyn2of.webp",
         title: "Season 6 ",
         subTitle: "Episodes 7",
         dateofrelease: "2025",
@@ -503,7 +503,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575709/Vincenzo___Official_Trailer___Netflix_rsmnl3.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575709/Vincenzo__Official_Trailer__Netflix_rsmnl3.mp4",
     Name: "Vincenzo",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576801/vincenzo-15_cfmjq0.webp",
@@ -515,28 +515,28 @@ const Descriptiondata = [
       "with a side of justice.",
     ],
     sliderdata: [
-      "https://cdn.tatlerasia.com/asiatatler/i/ph/2021/05/03203651-screen-shot-2021-05-03-at-62939-pm_cover_1901x956.png",
-      "https://inkistyle.com/wp-content/uploads/2021/03/Vincenzo-Fashion-Song-Joong-Ki-Episodes-1-8-758x426.jpg",
-      "https://images.saymedia-content.com/.image/t_share/MTg5MTc0MTk5NzM3MzI5NDMy/vincenzo-2021-k-drama-review.jpg",
-      "https://m.media-amazon.com/images/M/MV5BMjNhMjEyNWMtZWJlNy00MDUzLWI5ZGMtZjc5MDI5ZTZkN2RiXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX500_CR0,0,500,281_.jpg",
-      "https://marymekpop.com/wp-content/uploads/2021/03/bts00-4.png",
-      "https://images.squarespace-cdn.com/content/v1/58106f511b631bede2c6c406/1619624251215-LTSYAJDOEURVKVX3ZFPU/image6+%286%29.jpeg",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582910/03203651-screen-shot-2021-05-03-at-62939-pm_cover_1901x956_m1eze6.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582935/Vincenzo-Fashion-Song-Joong-Ki-Episodes-1-8-758x426_nvepcd.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582956/vincenzo-2021-k-drama-review_n3rfjz.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582980/MV5BMjNhMjEyNWMtZWJlNy00MDUzLWI5ZGMtZjc5MDI5ZTZkN2RiXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw_.V1_QL75_UX500_CR0_0_500_281_ehdr5y.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583003/bts00-4_gje0ps.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583045/image6_286_29_ryi4qb.webp",
     ],
     moreRelated: [
       {
-        img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1943/1561943-i-d6f3ff320900",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584804/1561943-i-d6f3ff320900_a00qhs.webp",
         title: "What's Wrong with Secretary Kim",
         subTitle: " Romance | Drama",
         dateofrelease: "2018",
       },
       {
-        img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6828/1556828-i-494855d3b697",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584830/1556828-i-494855d3b697_hegkdm.webp",
         title: "Guardian: The Lonely and Great God",
         subTitle: "Romance | Drama",
         dateofrelease: "2016",
       },
       {
-        img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2542/1732003122542-i",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745585234/1732003122542-i_pbhcmx.webp",
         title: "Hyper knife",
         subTitle: " Thriller | Crime",
         dateofrelease: "2025",
@@ -545,7 +545,7 @@ const Descriptiondata = [
   },
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575556/Business_Proposal___Official_Trailer___Netflix_ss4bmj.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575556/Business_Proposal__Official_Trailer__Netflix_ss4bmj.mp4",
     Name: "Business Proposal",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576800/AAAABfZduEQSApsAIwFJe-ko5EC7dYMNoIl2y0xLdpKezomvCIciq4yCj5y_Nou_GeugQ6zdkeSUV4KbPzWicMsMVVJuoMIgnct3VmOm_pboule.jpg",
@@ -558,28 +558,28 @@ const Descriptiondata = [
       "a proposal.",
     ],
     sliderdata: [
-      "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/65676372348192001d94b0a2.jpg",
-      "https://m.media-amazon.com/images/M/MV5BYTVmZTRmODAtODRmYi00YmEzLThkMDQtOTkzODgzZmUwYWFjXkEyXkFqcGc@._V1_.jpg",
-      "https://www.nme.com/wp-content/uploads/2022/03/business-proposal-recap-episode-seven-eight-k-drama.jpeg",
-      "https://staticg.sportskeeda.com/editor/2022/03/144c5-16460770674658-1920.jpg",
-      "https://www.hollywoodreporter.com/wp-content/uploads/2022/04/Businesss-proposal_12_2.jpeg",
-      "https://pbs.twimg.com/media/FPl4UokVcAMluam.jpg",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583073/65676372348192001d94b0a2_wwuaos.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583093/MV5BYTVmZTRmODAtODRmYi00YmEzLThkMDQtOTkzODgzZmUwYWFjXkEyXkFqcGc_.V1_zu7hlq.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583113/business-proposal-recap-episode-seven-eight-k-drama_rga9n7.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583137/144c5-16460770674658-1920_r3owsg.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583159/Businesss-proposal_12_2_fcntlz.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583183/FPl4UokVcAMluam_phgrzc.webp",
     ],
     moreRelated: [
       {
-        img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6828/1556828-i-494855d3b697",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745585418/1556828-i-494855d3b697_pmxmo9.webp",
         title: "Guardian: The Lonely and Great God",
         subTitle: "Romance | Drama",
         dateofrelease: "2016",
       },
       {
-        img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2542/1732003122542-i",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745585465/1732003122542-i_g0ksjk.webp",
         title: "Hyper knife",
         subTitle: " Thriller | Crime",
         dateofrelease: "2025",
       },
       {
-        img: "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1943/1561943-i-d6f3ff320900",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745585491/1561943-i-d6f3ff320900_xe0h8c.webp",
         title: "What's Wrong with Secretary Kim",
         subTitle: " Romance | Drama",
         dateofrelease: "2018",

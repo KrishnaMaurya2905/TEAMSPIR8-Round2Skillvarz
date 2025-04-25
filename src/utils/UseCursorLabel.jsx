@@ -1,4 +1,4 @@
-// hooks/useCursorLabel.js
+
 import { useSlide } from "../utils/Context";
 
 const useCursorLabel = (text) => {
