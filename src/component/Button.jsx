@@ -81,6 +81,8 @@ const Magnetic = ({ children }) => {
   const magnetic = useRef(null);
 
   useEffect(() => {
+    if (!magnetic.current) return;
+
     const xTo = gsap.quickTo(magnetic.current, "x", {
       duration: 1,
       ease: "elastic.out(1, 0.3)",
@@ -109,6 +111,7 @@ const Magnetic = ({ children }) => {
     magnetic.current.addEventListener("mouseleave", handleMouseLeave);
 
     return () => {
+      if (!magnetic.current) return; // <-- this line prevents error
       magnetic.current.removeEventListener("mousemove", handleMouseMove);
       magnetic.current.removeEventListener("mouseleave", handleMouseLeave);
     };

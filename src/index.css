@@ -1,14 +1,10 @@
-@import "tailwindcss";
+ @import "tailwindcss";
 
 @font-face {
   font-family: "Seri";
   src: url("/44de913a964f5a31-s.p.woff2");
 }
 
-@font-face {
-  font-family: "Kano";
-  src: url("/Kano-Bq_SLOq7.ttf");
-}
 
 @font-face {
   font-family: "Gothic";
@@ -47,4 +43,4 @@
   to {
     background-position: 8px 0;
   }
-}
+} 
