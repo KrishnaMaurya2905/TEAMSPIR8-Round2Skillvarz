@@ -41,7 +41,7 @@ const SignIn = ({ openSignIn, SetOpenSignIn }) => {
     <div
       className={`h-[100%] ${
         openSignIn
-          ? "w-[40%] max-2xl:w-[60%] duration-700 max-md:w-full"
+          ? "w-[40%] max-2xl:w-[60%] duration-700 max-lg:w-full"
           : "w-0 delay-300 duration-700"
       } bg-black  flex text-white overflow-hidden flex-col items-center justify-center fixed right-0 top-0 z-[12]`}
     >
@@ -67,7 +67,7 @@ const SignIn = ({ openSignIn, SetOpenSignIn }) => {
 
             {/* Main Content */}
             <div className="flex flex-col mt-[10vh] items-center justify-center gap-6 max-md:gap-4 w-full">
-              <h1 className="text-4xl text-center max-md:text-3xl font-['Seri'] pb-5 max-md:pb-2">
+              <h1 className="text-4xl text-center max-md:text-3xl font-['Seri']  max-md:pb-2">
                 WELCOME BACK TO CINEVERSE
               </h1>
               <Paragraph

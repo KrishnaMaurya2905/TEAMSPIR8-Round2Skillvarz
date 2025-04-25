@@ -56,6 +56,7 @@ const data = [
       sub: "Mythic Power",
     },
   },
+
   {
     img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576801/vincenzo-15_cfmjq0.webp",
     textData: {
@@ -64,7 +65,7 @@ const data = [
     },
   },
   {
-    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576800/AAAABfZduEQSApsAIwFJe-ko5EC7dYMNoIl2y0xLdpKezomvCIciq4yCj5y_Nou_GeugQ6zdkeSUV4KbPzWicMsMVVJuoMIgnct3VmOm_pboule.jpg",
+    img: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576800/AAAABfZduEQSApsAIwFJe-ko5EC7dYMNoIl2y0xLdpKezomvCIciq4yCj5y_Nou_GeugQ6zdkeSUV4KbPzWicMsMVVJuoMIgnct3VmOm_pboule.webp",
     textData: {
       head: "Business Proposal",
       sub: "Office Romance",
@@ -77,7 +78,7 @@ export default data;
 const Descriptiondata = [
   {
     video:
-      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576983/Salaar_Hindi_Trailer___Prabhas___Prashanth_Neel___Prithviraj_Shruthi_Hombale_Films__Vijay_Kiragandur_vdjsi7_ecx8c8.mp4",
+      "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576136/Salaar_Hindi_Trailer___Prabhas___Prashanth_Neel___Prithviraj_Shruthi_Hombale_Films__Vijay_Kiragandur_vdjsi7.mp4",
     Name: "Salaar",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745577021/thequint_2F2023-12_2F39932037-3563-463c-8ffc-890b9ef81dfb_2FScreenshot_2023_12_22_at_5_09_04_PM_iwgvfr.webp",
@@ -221,6 +222,7 @@ const Descriptiondata = [
       },
     ],
   },
+
   {
     video:
       "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575938/Stranger_Things_4___Volume_2_Trailer___Netflix_uco3lz.mp4",
@@ -303,31 +305,31 @@ const Descriptiondata = [
     ],
     moreRelated: [
       {
-        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584176/MV5BMDAxZmRjMWMtNWVmZS00MmI3LWJhNzItNzRkY2MwYmZkZGExXkEyXkFqcGc_.V1_QL75_UX402_lkd6oh.webp",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584176/MV5BMDAxZmRjMWMtNWVmZS00MmI3LWJhNzItNzRkY2MwYmZkZGExXkEyXkFqcGc_._V1_QL75_UX402__lkd6oh.webp",
         title: "Season 1",
         subTitle: "episode 9",
         dateofrelease: "2016",
       },
       {
-        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584197/MV5BYzBlNDE5NWYtZDljZC00MTgxLThhOWEtMGZhNmRlMmUwYzNlXkEyXkFqcGc_.V1_QL75_UX397_raosvc.webp",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584197/MV5BYzBlNDE5NWYtZDljZC00MTgxLThhOWEtMGZhNmRlMmUwYzNlXkEyXkFqcGc_._V1_QL75_UX397__raosvc.webp",
         title: "Season 2",
         subTitle: "episode 6",
         dateofrelease: "2017",
       },
       {
-        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584219/MV5BMzI0OWExNjgtMTA2MS00NzRmLTk2YmEtZDNjMjVlYTIxZDZjXkEyXkFqcGc_.V1_QL75_UX820_gcsqne.webp",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584219/MV5BMzI0OWExNjgtMTA2MS00NzRmLTk2YmEtZDNjMjVlYTIxZDZjXkEyXkFqcGc_._V1_QL75_UX820__gcsqne.webp",
         title: "Season 3",
         subTitle: "episode 8",
         dateofrelease: "2019",
       },
       {
-        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584241/MV5BMGFlYTc5MDYtYzdmZS00Y2I1LWFhYjYtODcxNTNiYjhmYWYzXkEyXkFqcGc_.V1_QL75_UX587_gczuj0.webp",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584241/MV5BMGFlYTc5MDYtYzdmZS00Y2I1LWFhYjYtODcxNTNiYjhmYWYzXkEyXkFqcGc_._V1_QL75_UX587__gczuj0.webp",
         title: "Season 4",
         subTitle: "episode 8",
         dateofrelease: "2022",
       },
       {
-        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584262/MV5BZDNmYzM1YjQtMmQ0Yi00YmMzLTg4NjItNDAxOGViZGRkZTFiXkEyXkFqcGc_.V1_QL75_UX401_fmom7p.webp",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584262/MV5BZDNmYzM1YjQtMmQ0Yi00YmMzLTg4NjItNDAxOGViZGRkZTFiXkEyXkFqcGc_._V1_QL75_UX401__fmom7p.webp",
         title: "Season 5",
         subTitle: "episode 10",
         dateofrelease: "Coming Soon",
@@ -338,8 +340,7 @@ const Descriptiondata = [
     video:
       "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745576124/Peaky_Blinders___Season_5_Trailer___Netflix_a2kfft.mp4",
     Name: "Peaky Blinders",
-    BannerImg:
-      "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/thumb-1920-1221287_hev8dq.webp",
+    BannerImg: "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576803/thumb-1920-1221287_hev8dq.webp",
     info: ["2013", "U/A 16+", "6 Seasons", "5 languages"],
     Category: "  Drama | Thriller | Crime",
     des: [
@@ -350,8 +351,8 @@ const Descriptiondata = [
     ],
     sliderdata: [
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582380/peaky-blinders-16_rznqsy.webp",
-      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582401/MV5BN2Q2MGY1MWQtNTYzNC00ZmZlLWI3MzktYmEyZTNiNmMxZjliXkEyXkFqcGc_.V1_QL75_UX404_hh2cpb.webp",
-      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582434/MV5BYjJiOGRmMjktODMxYy00MzM5LWI2YzItYmIwNjljYTZjOWY1XkEyXkFqcGc_.V1_QL75_UX402_lnssm8.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582401/MV5BN2Q2MGY1MWQtNTYzNC00ZmZlLWI3MzktYmEyZTNiNmMxZjliXkEyXkFqcGc_._V1_QL75_UX404__hh2cpb.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582434/MV5BYjJiOGRmMjktODMxYy00MzM5LWI2YzItYmIwNjljYTZjOWY1XkEyXkFqcGc_._V1_QL75_UX402__lnssm8.webp",
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582452/no-fighting-peaky-blinders0_eafrxq.webp",
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582480/Peaky-Blinders-Header-1024x576_lppqcs.webp",
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582499/peaky-blinders-blue-sapphire-curse-1647261408_fmohcx.webp",
@@ -371,7 +372,7 @@ const Descriptiondata = [
         dateofrelease: "2017",
       },
       {
-        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584416/MV5BYTlkZTQzNWEtYjA5OS00MGM0LTljMGEtNGZjNjdkZWRlOGFmXkEyXkFqcGc_.V1_QL75_UX500_CR0_26_500_281_m5zal9.webp",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584416/MV5BYTlkZTQzNWEtYjA5OS00MGM0LTljMGEtNGZjNjdkZWRlOGFmXkEyXkFqcGc_._V1_QL75_UX500_CR0_26_500_281__m5zal9.webp",
         title: "Season 3",
         subTitle: "episode 6",
         dateofrelease: "2019",
@@ -389,7 +390,7 @@ const Descriptiondata = [
         dateofrelease: "Coming Soon",
       },
       {
-        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584506/MV5BOTc3NGJkYjMtN2JmZS00MDI2LWExYmUtMTcwN2YwZGM0YTM0XkEyXkFqcGc_.V1_QL75_UX500_CR0_26_500_281_x1mcbc.webp",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584506/MV5BOTc3NGJkYjMtN2JmZS00MDI2LWExYmUtMTcwN2YwZGM0YTM0XkEyXkFqcGc_._V1_QL75_UX500_CR0_26_500_281__x1mcbc.webp",
         title: "Season 6",
         subTitle: "episode 6",
         dateofrelease: "Coming Soon",
@@ -420,7 +421,7 @@ const Descriptiondata = [
     ],
     moreRelated: [
       {
-        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584545/cab0fba6e0d182fc16b66def64462b96f897b868eaed9954a21c064010e3671a.SX1080_FMjpg_e7egw8.webp",
+        img: "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745584545/cab0fba6e0d182fc16b66def64462b96f897b868eaed9954a21c064010e3671a._SX1080_FMjpg__e7egw8.webp",
         title: "BLADE MAN",
         subTitle: "Fantasy",
         dateofrelease: "2024",
@@ -501,6 +502,7 @@ const Descriptiondata = [
       },
     ],
   },
+
   {
     video:
       "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575709/Vincenzo___Official_Trailer___Netflix_rsmnl3.mp4",
@@ -518,7 +520,7 @@ const Descriptiondata = [
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582910/03203651-screen-shot-2021-05-03-at-62939-pm_cover_1901x956_m1eze6.webp",
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582935/Vincenzo-Fashion-Song-Joong-Ki-Episodes-1-8-758x426_nvepcd.webp",
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582956/vincenzo-2021-k-drama-review_n3rfjz.webp",
-      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582980/MV5BMjNhMjEyNWMtZWJlNy00MDUzLWI5ZGMtZjc5MDI5ZTZkN2RiXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw_.V1_QL75_UX500_CR0_0_500_281_ehdr5y.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745582980/MV5BMjNhMjEyNWMtZWJlNy00MDUzLWI5ZGMtZjc5MDI5ZTZkN2RiXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw_._V1_QL75_UX500_CR0_0_500_281__ehdr5y.webp",
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583003/bts00-4_gje0ps.webp",
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583045/image6_286_29_ryi4qb.webp",
     ],
@@ -546,6 +548,7 @@ const Descriptiondata = [
   {
     video:
       "https://res.cloudinary.com/dtkyjnbvf/video/upload/v1745575556/Business_Proposal___Official_Trailer___Netflix_ss4bmj.mp4",
+    Name: "Business Proposal",
     BannerImg:
       "https://res.cloudinary.com/dtkyjnbvf/image/upload/v1745576800/AAAABfZduEQSApsAIwFJe-ko5EC7dYMNoIl2y0xLdpKezomvCIciq4yCj5y_Nou_GeugQ6zdkeSUV4KbPzWicMsMVVJuoMIgnct3VmOm_pboule.jpg",
     info: ["2022", "U/A 13+", "1 Season", "3 languages"],
@@ -558,7 +561,7 @@ const Descriptiondata = [
     ],
     sliderdata: [
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583073/65676372348192001d94b0a2_wwuaos.webp",
-      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583093/MV5BYTVmZTRmODAtODRmYi00YmEzLThkMDQtOTkzODgzZmUwYWFjXkEyXkFqcGc_.V1_zu7hlq.webp",
+      "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583093/MV5BYTVmZTRmODAtODRmYi00YmEzLThkMDQtOTkzODgzZmUwYWFjXkEyXkFqcGc_._V1__zu7hlq.webp",
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583113/business-proposal-recap-episode-seven-eight-k-drama_rga9n7.webp",
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583137/144c5-16460770674658-1920_r3owsg.webp",
       "https://res.cloudinary.com/dsxhjoxsc/image/upload/v1745583159/Businesss-proposal_12_2_fcntlz.webp",
