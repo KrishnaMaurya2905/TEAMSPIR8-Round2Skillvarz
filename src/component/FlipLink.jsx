@@ -3,20 +3,23 @@ import { motion } from "framer-motion";
 const DURATION = 0.25;
 const STAGGER = 0.01;
 
-const FlipLink = ({ children, href }) => {
-  const letters = children.split(""); // this includes spaces
+const FlipLink = ({ children, onClick }) => {
+  const letters = children.split("");
 
   return (
-    <motion.a
+    <motion.button
+      type="button"
       initial="initial"
       whileHover="hovered"
-      href={href}
-      className="relative overflow-hidden whitespace-nowrap uppercase leading-none"
+      className="relative overflow-hidden whitespace-nowrap uppercase leading-none bg-transparent border-none p-0 cursor-pointer"
+      onClick={onClick}
     >
-      {/* First layer */}
-      <div>
+      {/* Top Layer */}
+      <div aria-hidden="true">
         {letters.map((l, i) => (
           <motion.span
+            key={`top-${i}`}
+            className="inline-block"
             variants={{
               initial: { y: 0 },
               hovered: { y: "-100%" },
@@ -26,18 +29,18 @@ const FlipLink = ({ children, href }) => {
               ease: "easeInOut",
               delay: STAGGER * i,
             }}
-            className="inline-block"
-            key={`top-${i}`}
           >
             {l === " " ? "\u00A0" : l}
           </motion.span>
         ))}
       </div>
 
-      {/* Second layer (hovered state) */}
-      <div className="absolute inset-0">
+      {/* Bottom Layer */}
+      <div className="absolute inset-0" aria-hidden="true">
         {letters.map((l, i) => (
           <motion.span
+            key={`bottom-${i}`}
+            className="inline-block"
             variants={{
               initial: { y: "100%" },
               hovered: { y: 0 },
@@ -47,14 +50,12 @@ const FlipLink = ({ children, href }) => {
               ease: "easeInOut",
               delay: STAGGER * i,
             }}
-            className="inline-block"
-            key={`bottom-${i}`}
           >
             {l === " " ? "\u00A0" : l}
           </motion.span>
         ))}
       </div>
-    </motion.a>
+    </motion.button>
   );
 };
 

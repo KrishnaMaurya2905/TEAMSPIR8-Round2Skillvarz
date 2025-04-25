@@ -1,6 +1,7 @@
 import React from "react";
+import FlipLink from "./FlipLink";
 
-const Footer = ({  currentData }) => {
+const Footer = ({ currentData }) => {
   return (
     <div>
       <div
@@ -25,17 +26,17 @@ const Footer = ({  currentData }) => {
               </div>
               <div className="h-fit w-fit flex flex-col gap-5 ">
                 <h3 className="opacity-70">Menu</h3>
-                <div>
-                  <h3>Home</h3>
-                  <h3>About</h3>
+                <div className="flex flex-col items-start">
+                  <FlipLink>Home</FlipLink>
+                  <FlipLink>About</FlipLink>
                 </div>
               </div>
               <div className="h-fit w-fit flex flex-col gap-5 ">
                 <h3 className="opacity-70">Social</h3>
-                <div>
-                  <h3>Instagram</h3>
-                  <h3>Facebook</h3>
-                  <h3>X</h3>
+                <div className="flex flex-col items-start">
+                  <FlipLink>Instagram</FlipLink>
+                  <FlipLink>Facebook</FlipLink>
+                  <FlipLink>X</FlipLink>
                 </div>
               </div>
             </div>
@@ -43,27 +44,24 @@ const Footer = ({  currentData }) => {
 
           <div className="h-[55%]  w-full flex flex-col  justify-end  ">
             <div className="text-black flex justify-between items-end font-['Gothic'] leading-none text-4xl max-md:text-xl h-fit w-full ">
-            <h2 className="text-6xl max-md:text-3xl font-['Seri'] font-bold  ">Cinverse</h2>
-            <h2 className="opacity-70" >
-              Streaming Redefined for <br /> Storytellers and Seekers
-            </h2>
-
+              <h2 className="text-6xl max-md:text-3xl font-['Seri'] font-bold  ">
+                Cinverse
+              </h2>
+              <h2 className="opacity-70">
+                Streaming Redefined for <br /> Storytellers and Seekers
+              </h2>
             </div>
             <div className="relative w-full h-[20vw] overflow-hidden">
-  {/* Video absolutely positioned */}
-  <video
-    className="absolute top-0 left-0 w-full h-full object-cover z-0"
-    loop
-    autoPlay
-    muted
-    playsInline
-    src={currentData.video}
-  />
-
-  {/* Text mask */}
-
-</div>
-
+              {/* Video absolutely positioned */}
+              <video
+                className="absolute top-0 left-0 w-full h-full object-cover z-0"
+                loop
+                autoPlay
+                muted
+                playsInline
+                src={currentData.video}
+              />
+            </div>
           </div>
           <div className="h-[10%] w-full flex justify-between text-xl  max-md:text-xs items-center font-['Gothic'] ">
             <h3>@2025 Cinverse</h3>

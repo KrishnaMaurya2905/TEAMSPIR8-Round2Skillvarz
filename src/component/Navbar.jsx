@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useSlide } from "../utils/Context";
 import { useLocation, useNavigate } from "react-router-dom";
+import FlipLink from "./FlipLink";
 
 const Navbar = ({ SetOpenSignIn }) => {
   const { showSidebar } = useSlide();
@@ -80,7 +81,13 @@ const Navbar = ({ SetOpenSignIn }) => {
       <span className="text-xs max-sm:text-[10px]  font-['poppins'] font-semibold align-super">
         [ {time} ]
       </span>
-      <h3 onClick={() => SetOpenSignIn((prev) => !prev)}>SIGN IN</h3>
+      <FlipLink
+        onClick={() => {
+          SetOpenSignIn((prev) => !prev);
+        }}
+      >
+        SIGN IN
+      </FlipLink>
     </div>
   );
 };
